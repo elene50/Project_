@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Belarus_Tour" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAQAAAQAAAAAAAIAAAAQEAAAQAAAAAAAAEACBAA=</HashCode>
+      <FileName>Belarus_Tour.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Combined_Tour&lt;T1, T2&gt;" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAEQCAKAAAAAABAAIAA=</HashCode>
+      <FileName>Combined.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Europe_Tour">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAQAAAAAAEAAAAYAAAAAAAEIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Europe_Tour.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuAdm" Collapsed="true">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAABAACEAAAAAAAAgAQAAAgAAKAAAEEAAAAAAA=</HashCode>
+      <FileName>menuadm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mounty_Tour" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQwAASAAAACCAEQAAIAIpAQEAAAAACAkBAgAQASQAA=</HashCode>
+      <FileName>Mounty_tour.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sea_Child_Tour">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQwAASAAAAECIAAAAJAIgIQEAAAAASAAAAgAAASAAA=</HashCode>
+      <FileName>Sea_Child_Tour.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sea_Tour" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAQwgASAAAEACAEQAAYAAoAQEAAAAACEkAAgAQAyASE=</HashCode>
+      <FileName>Sea_Tour.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tour&lt;T1, T2&gt;" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQkQIQABAEACAAEAEYAAgEAlAQIABCEEEAAARAgATE=</HashCode>
+      <FileName>tour.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client&lt;T1, T2&gt;" Collapsed="true">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgYAAACIAEAAAIADYAAAUQOAIABAAAgEAhAIACCAQ=</HashCode>
+      <FileName>tour.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uncombined_Tour&lt;T1, T2&gt;" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABEAAAAAAQASAAAUAAACACCAEAAAAAAAAA=</HashCode>
+      <FileName>Uncombined_tour.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Child_Tour">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQ4AASAAAAACAAAAAIAIgAQEACBABCAIAAgAAASQAA=</HashCode>
+      <FileName>Wellness_Tour.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Worker">
+    <Position X="15.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgABBQAEEAABAAAAIIAAAQAAAAAAAABAAgAAQAEAA=</HashCode>
+      <FileName>worker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
